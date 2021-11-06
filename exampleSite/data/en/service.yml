@@ -4,7 +4,7 @@ service:
   title: Python Libraries
   service_item:
   - name: Pandas
-    icon: pandas-logo
+    icon: pandas-logo.png
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
   - name: Responsive Design
